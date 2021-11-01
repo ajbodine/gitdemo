@@ -17,7 +17,7 @@ plot(x = data$x, y = data$y,
      main = "A plot of a Regression",
      xlab = 'X', ylab = 'Y',
      pch = 16,
-     col = rgb(200/255, 100/255, 20/255, .4)
+     col = rgb(0/255, 0/255, 0/255, .4)
 )
 
 ## Add the regression line
